@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pingminus</h1>
+<h1 align="center">pingminus</h1>
 
 <p align="left">
 </p>
