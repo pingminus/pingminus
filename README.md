@@ -1,4 +1,4 @@
-<h1 align="center">pingminus</h1>
+  <h1 align="center">pingminus</h1>
 
 <p align="left">
 </p>
@@ -29,4 +29,5 @@
 
 
 </p>
-[![Watch Video](https://img.youtube.com/vi/ITAh89Abay0/0.jpg)][(https://www.youtube.com/watch?v=ITAh89Abay0))]
+Check out the demo video on YouTube: [Watch Video](https://www.youtube.com/watch?v=ITAh89Abay0)
+
