@@ -2,7 +2,9 @@
 
 <p align="left">
 </p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+# pingminus
+
+![Leetcode Stats](https://leetcard.niklasximuenchen.cool/niklasximuenchen)
 
 
 <h3 align="left">Languages and Tools:</h3>
