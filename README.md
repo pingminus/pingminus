@@ -4,8 +4,7 @@
 </p>
 # pingminus
 
-![Leetcode Stats](https://leetcode.card.workers.dev/niklasximuenchen/leetcode?site=cn)
-
+![](https://leetcard.niklasximuenchen.cool/leetcode?site=cn)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
