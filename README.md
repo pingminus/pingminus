@@ -26,5 +26,7 @@
   </a> 
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" alt="C++" width="40" height="40">
   </a>
-  !(https://www.youtube.com/watch?v=ITAh89Abay0)
+
+
 </p>
+[![Watch Video](https://img.youtube.com/vi/ITAh89Abay0/0.jpg)][(https://www.youtube.com/watch?v=ITAh89Abay0))]
