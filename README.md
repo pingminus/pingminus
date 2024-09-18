@@ -4,8 +4,7 @@
 </p>
 # pingminus
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/niklasximuenchen?theme=dark&font=Lexend&ext=activity)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/niklasximuenchen?theme=dark&font=Lexend&ext=heatmap)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
