@@ -28,6 +28,8 @@
   </a>
 
 
-</p>
-Check out the demo video on YouTube: [Watch Video](https://www.youtube.com/watch?v=ITAh89Abay0)
+<br> <!-- This creates a line break -->
 
+## Watch the Demo
+
+Check out the demo video on YouTube: [Watch Video](https://www.youtube.com/watch?v=ITAh89Abay0)
