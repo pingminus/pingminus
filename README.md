@@ -5,7 +5,7 @@
 # pingminus
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/niklasximuenchen?theme=dark&font=Lexend&ext=heatmap)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/niklasximuenchen?theme=transparent&font=Lexend&ext=activity)
 
 
 <h3 align="left">Languages and Tools:</h3>
