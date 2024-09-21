@@ -4,7 +4,7 @@
 </p>
 # Leetcode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/niklasximuenchen?theme=wtf&font=Lexend&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/niklasximuenchen?theme=dark&font=Lexend&ext=heatmap)
 <p align="left"> 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
