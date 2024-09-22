@@ -5,6 +5,8 @@
 # Leetcode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/niklasximuenchen?theme=dark&font=Lexend&ext=heatmap)
+![Screamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingminus&show_icons=true&theme=merko)
+
 <p align="left"> 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
