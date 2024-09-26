@@ -2,9 +2,9 @@
 
 <p align="left">
 </p>
-<a href="https://leetcode.com/niklaximuenchen">LeetCode Profile</a><br>
+<a href="https://leetcode.com/niklaximuenchen">LeetCode Profile</a><br><br><br>
+<img src="https://leetcard.jacoblin.cool/niklasximuenchen?theme=dark&font=Lexend&ext=heatmap" alt="LeetCode Stats">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/niklasximuenchen?theme=dark&font=Lexend&ext=heatmap)
 
 <p align="left"> 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
