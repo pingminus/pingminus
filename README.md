@@ -2,8 +2,7 @@
 
 <p align="left">
 </p>
-[LeetCode](https://leetcode.com/u/niklaximuenchen)
-
+[Leetcode](https://leetcode.com/u/niklasximuenchen/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/niklasximuenchen?theme=dark&font=Lexend&ext=heatmap)
 
 <p align="left"> 
