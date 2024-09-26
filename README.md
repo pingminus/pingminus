@@ -2,6 +2,7 @@
 
 <p align="left">
 </p>
+<a href="https://leetcode.com/niklaximuenchen">LeetCode Profile</a>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/niklasximuenchen?theme=dark&font=Lexend&ext=heatmap)
 
