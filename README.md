@@ -7,7 +7,7 @@
 
 <p align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingminus&layout=compact&langs_count=20&bg_color=ffffff00&count_private=true&hide_border=true" height="150" alt="most_used_langs"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pingminus&layout=compact&theme=dark)
 
 <a href="#">
 <p align="left"> 
