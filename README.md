@@ -7,8 +7,8 @@
 
 <p align="left">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingminus&layout=compact&langs_count=20&bg_color=ffffff00&count_private=true&hide_border=true" height="150" alt="most_used_langs">
-<a href="#">
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pingminus&layout=compact)
+
 <p align="left"> 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
