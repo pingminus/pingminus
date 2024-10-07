@@ -7,8 +7,7 @@
 
 <p align="left">
 
-![Top Languages]( <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingminus&layout=compact&langs_count=20&bg_color=ffffff00&count_private=true&hide_border=true" height="150" alt="most_used_langs">)
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satanaelcode&layout=compact&langs_count=20&bg_color=ffffff00&count_private=true&hide_border=true" height="150" alt="most_used_langs">
 <a href="#">
 <p align="left"> 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
