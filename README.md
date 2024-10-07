@@ -5,7 +5,11 @@
 <a href="https://leetcode.com/u/niklasximuenchen/">LeetCode Profile</a><br><br><br>
 <img src="https://leetcard.jacoblin.cool/niklasximuenchen?theme=dark&font=Lexend&ext=heatmap" alt="LeetCode Stats">
 
+<p align="left">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingminus&layout=compact&langs_count=20&bg_color=ffffff00&count_private=true&hide_border=true" height="150" alt="most_used_langs"/>
+
+<a href="#">
 <p align="left"> 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
@@ -18,11 +22,7 @@
 </a>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" alt="C++" width="40" height="40"/>
 </a>
-<p align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingminus&layout=compact&langs_count=20&bg_color=ffffff00&count_private=true&hide_border=true" height="150" alt="most_used_langs"/>
-
-<a href="#">
   
 </a>
 
