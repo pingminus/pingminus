@@ -7,7 +7,7 @@
 
 <p align="left">
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pingminus&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
 
 <p align="left"> 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
