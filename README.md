@@ -29,4 +29,4 @@ Learning C++ at the moment
 
 ## Recent Blender Project
 
-Blender Iphone commercial by me : [Blender 4.0 ](https://www.youtube.com/watch?v=ITAh89Abay0)
+Blender Iphone commercial: [Blender 4.0 ](https://www.youtube.com/watch?v=ITAh89Abay0)
