@@ -22,7 +22,6 @@
   </a>
 </p>
 
-Learning C++ at the moment
 
 
 <br> <!-- This creates a line break -->
