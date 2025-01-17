@@ -2,9 +2,9 @@
 
 <p align="left">
 </p>
-<a href="https://leetcode.com/u/niklasximuenchen/">LeetCode Profile</a><br><br><br>
+<a href="https://leetcode.com/u/niklasximuenchen/">LeetCode Profile</a><br>
+<a href="https://modrinth.com/user/pingplus">Modrinth Profile</a><br>
 
-<p align="left">
 
 
 <p align="left"> 
