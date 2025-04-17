@@ -10,6 +10,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C++-033963.svg?style=for-the-badge&logo=C++&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-ff5100.svg?style=for-the-badge&logo=Blender&logoColor=blue)
+
 
 <p align="left"> 
 
