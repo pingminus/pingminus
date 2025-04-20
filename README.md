@@ -11,6 +11,8 @@
 ![intellijidea](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C++-033963.svg?style=for-the-badge&logo=Cplusplus&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-ff5100.svg?style=for-the-badge&logo=Blender&logoColor=blue)
+![QT](https://img.shields.io/badge/QT-5CE65C.svg?style=for-the-badge&logo=QT&logoColor=black)
+
 
 
 <p align="left"> 
