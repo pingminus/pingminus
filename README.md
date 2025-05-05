@@ -10,7 +10,7 @@
 
 
 ## Platforms
-[![Modrinth](https://img.shields.io/badge/Modrinth-2b3137.svg?style=for-the-badge&logo=modrinth&logoColor=dark_green)](https://modrinth.com/user/pingplus)  [![Discord](https://img.shields.io/badge/Discord-36373a.svg?style=for-the-badge&logo=Discord&logoColor=dark_green)](https://discord.com/users/pingplus)  [![Leetcode](https://img.shields.io/badge/Leetcode-36373a.svg?style=for-the-badge&logo=Leetcode)](https://leetcode.com/niklasximuenchen)  [![Github](https://img.shields.io/badge/Github-36373a.svg?style=for-the-badge&logo=Github)](https://github.com/pingminus)
+[![Modrinth](https://img.shields.io/badge/Modrinth-36373a.svg?style=for-the-badge&logo=modrinth&logoColor=dark_green)](https://modrinth.com/user/pingplus)  [![Discord](https://img.shields.io/badge/Discord-36373a.svg?style=for-the-badge&logo=Discord&logoColor=dark_green)](https://discord.com/users/pingplus)  [![Leetcode](https://img.shields.io/badge/Leetcode-36373a.svg?style=for-the-badge&logo=Leetcode)](https://leetcode.com/niklasximuenchen)  [![Github](https://img.shields.io/badge/Github-36373a.svg?style=for-the-badge&logo=Github)](https://github.com/pingminus) [![X](https://img.shields.io/badge/Twitter-36373a.svg?style=for-the-badge&logo=X)](https://X.com/pingminus)
 
 
 
