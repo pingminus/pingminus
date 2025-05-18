@@ -5,7 +5,8 @@
 ##  Software
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![intellijidea](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)![QT](https://img.shields.io/badge/QT-5CE65C.svg?style=for-the-badge&logo=QT&logoColor=black)
+![intellijidea](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![QT](https://img.shields.io/badge/QT-5CE65C.svg?style=for-the-badge&logo=QT&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-ff5100.svg?style=for-the-badge&logo=Blender&logoColor=blue)
 ![Spigot](https://img.shields.io/badge/Spigot-858068.svg?style=for-the-badge&logo=SpigotMC)
 
