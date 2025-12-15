@@ -1,22 +1,42 @@
-#  Niklas
-![Cpp](https://img.shields.io/badge/C++-033963.svg?style=for-the-badge&logo=Cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java%20-%23fc9003.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9Ii0zIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlPSIjZmZmZmZmIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+Cg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4KDTxwYXRoIGQ9Im01LjcwMSAxOC41NjFzLS45MTguNTM0LjY1My43MTRjLjU3NS4wODUgMS4yMzkuMTM0IDEuOTEzLjEzNCAxLjA4NCAwIDIuMTM4LS4xMjUgMy4xNDktLjM2M2wtLjA5My4wMThjLjM3NC4yMjguODA5LjQ0NSAxLjI2Mi42MjRsLjA1OS4wMmMtNC42OTggMi4wMTQtMTAuNjMzLS4xMTctNi45NDItMS4xNDh6Ii8+Cg08cGF0aCBkPSJtNS4xMjcgMTUuOTMzcy0xLjAyOS43NjIuNTQyLjkyNGMuNjg3LjA4NiAxLjQ4Mi4xMzYgMi4yODkuMTM2IDEuNDYxIDAgMi44ODQtLjE2MiA0LjI1Mi0uNDY4bC0uMTI5LjAyNGMuMjc1LjI1OC42MDQuNDYzLjk2OC41OTZsLjAyLjAwNmMtNS42OCAxLjY2MS0xMi4wMDguMTMxLTcuOTQyLTEuMjE4eiIvPgoNPHBhdGggZD0ibTkuOTY2IDExLjQ3NWMxLjE1OCAxLjMzMy0uMzA0IDIuNTMyLS4zMDQgMi41MzJzMi45MzktMS41MiAxLjU5LTMuNDE4Yy0xLjI2MS0xLjc3Mi0yLjIyOC0yLjY1MyAzLjAwNi01LjY4OCAwIDAtOC4yMTYgMi4wNTItNC4yOTIgNi41NzR6Ii8+Cg08cGF0aCBkPSJtMTYuMTggMjAuNTA1cy42NzguNTYtLjc0Ny45OTJjLTIuNzEyLjgyMi0xMS4yODcgMS4wNy0xMy42Ny4wMzMtLjg1Ni0uMzczLjc1LS44OSAxLjI1NC0uOTk4LjIzMi0uMDU5LjQ5OS0uMDkzLjc3NC0uMDkzaC4wNTctLjAwM2MtLjk1Mi0uNjcxLTYuMTU1IDEuMzE4LTIuNjQgMS44ODYgOS41NzkgMS41NTQgMTcuNDYyLS43IDE0Ljk3OC0xLjgyeiIvPgoNPHBhdGggZD0ibTYuMTQyIDEzLjIxcy00LjM2MiAxLjAzNi0xLjU0NSAxLjQxMmMuNzU5LjA2MyAxLjY0NC4wOTggMi41MzYuMDk4IDEuMTM5IDAgMi4yNjQtLjA1OCAzLjM3Mi0uMTcxbC0uMTM5LjAxMmMxLjgwNS0uMTUyIDMuNjE4LS40OCAzLjYxOC0uNDgtLjQyNS4xODYtLjc4NS4zODItMS4xMjYuNjA1bC4wMjktLjAxOGMtNC40MyAxLjE2NS0xMi45ODYuNjIzLTEwLjUyMy0uNTY5IDEuMDg2LS41NjMgMi4zNzItLjg5MyAzLjczNC0uODkzaC4wNDYtLjAwMnoiLz4KDTxwYXRoIGQ9Im0xMy45NjYgMTcuNTg1YzQuNTAyLTIuMzQgMi40MjEtNC41ODguOTY3LTQuMjg2LS4xOTkuMDM3LS4zNzIuMDg1LS41MzkuMTQ2bC4wMjMtLjAwN2MuMDk1LS4xMzQuMjI2LS4yMzcuMzc5LS4yOTVsLjAwNi0uMDAyYzIuODc0LTEuMDEgNS4wODYgMi45ODEtLjkyOCA0LjU2LjAzNy0uMDMzLjA2Ny0uMDcyLjA4OS0uMTE1bC4wMDEtLjAwMnoiLz4KDTxwYXRoIGQ9Im0xMS4yNTIgMHMyLjQ5NCAyLjQ5NC0yLjM2NiA2LjMzYy0zLjg5NiAzLjA3Ny0uODg5IDQuODMxIDAgNi44MzYtMi4yNzQtMi4wNTItMy45NDMtMy44NTgtMi44MjQtNS41NCAxLjY0NC0yLjQ2OCA2LjE5Ny0zLjY2NCA1LjE5LTcuNjI3eiIvPgoNPHBhdGggZD0ibTYuNTg1IDIzLjkyNWM0LjMyLjI3NyAxMC45Ni0uMTU0IDExLjEyLTIuMTk4IDAgMC0uMzAyLjc3NS0zLjU3MiAxLjM5MS0xLjgwNi4zMjYtMy44ODUuNTEyLTYuMDA4LjUxMi0xLjczOSAwLTMuNDQ4LS4xMjUtNS4xMjEtLjM2NmwuMTkxLjAyM3MuNTUzLjQ1OCAzLjM5My42NHoiLz4KDTwvZz4KDTwvc3ZnPg==&logoColor=white) ![QT](https://img.shields.io/badge/QT-5CE65C.svg?style=for-the-badge&logo=QT&logoColor=black) ![Blender](https://img.shields.io/badge/Blender-ff5100.svg?style=for-the-badge&logo=Blender&logoColor=blue) [![Modrinth](https://img.shields.io/badge/Modrinth-36373a.svg?style=for-the-badge&logo=modrinth&logoColor=dark_green)](https://modrinth.com/user/pingplus)  [![Discord](https://img.shields.io/badge/Discord-36373a.svg?style=for-the-badge&logo=Discord&logoColor=dark_green)](https://discord.com/users/pingplus)  [![Leetcode](https://img.shields.io/badge/Leetcode-36373a.svg?style=for-the-badge&logo=Leetcode)](https://leetcode.com/niklasximuenchen)  [![Hackerrank](https://img.shields.io/badge/Hackerrank-36373a.svg?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/profile/pingplus) [![X](https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=X)](https://X.com/pingminus)
+# Niklas
+
+> • Student  • C++ / DSA •
+
+---
+
+## Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-0f3c5c.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF3E17.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF.svg?style=for-the-badge\&logo=html5\&logoColor=FF2A00)
 
 
+**learning (with C++):**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937.svg?style=for-the-badge\&logo=javascript\&logoColor=f7df1e)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-5c2d91.svg?style=for-the-badge\&logo=webassembly\&logoColor=white)
 
 
+---
 
+### Tools & Frameworks
 
+[![GNU](https://img.shields.io/badge/GNU-FFFFFF.svg?style=for-the-badge\&logo=gnu\&logoColor=000000)](https://modrinth.com/user/pingplus)
+![CMake](https://img.shields.io/badge/CMake-00126B.svg?style=for-the-badge\&logo=cmake\&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-17E000.svg?style=for-the-badge\&logo=qt\&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-ea580c.svg?style=for-the-badge\&logo=blender\&logoColor=white)
 
+---
 
+## Platforms
 
+[![Modrinth](https://img.shields.io/badge/Modrinth-1f2937.svg?style=for-the-badge\&logo=modrinth\&logoColor=5ce65c)](https://modrinth.com/user/pingplus)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge\&logo=discord\&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1f2937.svg?style=for-the-badge\&logo=leetcode\&logoColor=f9a825)](https://leetcode.com/niklasximuenchen)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0b3d0b.svg?style=for-the-badge\&logo=hackerrank\&logoColor=86ff6e)](https://www.hackerrank.com/profile/pingplus)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/pingminus)
 
-
-<p align="left"> 
-
-  </a> 
- 
-</p>
-
-
+---
 
