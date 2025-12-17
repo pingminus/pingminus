@@ -10,12 +10,7 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-0f3c5c.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FF3E17.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FFFFFF.svg?style=for-the-badge\&logo=html5\&logoColor=FF2A00)
-
-
-**learning (with C++):**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2937.svg?style=for-the-badge\&logo=javascript\&logoColor=f7df1e)
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF.svg?style=for-the-badge\&logo=html5\&logoColor=FF2A00) ![JavaScript](https://img.shields.io/badge/JavaScript-1f2937.svg?style=for-the-badge\&logo=javascript\&logoColor=f7df1e)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-5c2d91.svg?style=for-the-badge\&logo=webassembly\&logoColor=white)
 
 
