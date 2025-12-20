@@ -20,7 +20,7 @@
 
 | **Category**    | **Description** |
 | --------------- | --------------- |
-| **Learning**    |[Leetcode](https://leetcode.com/u/niklasximuenchen/), [Hackerrank](https://www.hackerrank.com/profile/pingplus), [Modrinth](https://modrinth.com/user/pingplus)|
+| **Stuff**    |[Leetcode](https://leetcode.com/u/niklasximuenchen/), [Hackerrank](https://www.hackerrank.com/profile/pingplus), [Modrinth](https://modrinth.com/user/pingplus)|
 | **Yapping** |[Twitter](https://x.com/pingminus), [Discord](https://discord.gg/S9vcxrxQHX)|
 
 
