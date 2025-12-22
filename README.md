@@ -1,7 +1,7 @@
 
 ### Niklas
 
-• A student from German and right now focused on **C++** and **Go**
+• A student from Germany and right now focused on **C++** and **Go**
 
 • 18 years old and not at a university yet
 
