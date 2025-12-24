@@ -3,7 +3,7 @@
 
 • A student from Germany and right now focused on **C++** and **Go**
 
-• 18 years old and not at a university yet
+• 18 years old and in High School
 
 ---
 
