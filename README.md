@@ -6,6 +6,8 @@
 • 18 years old and in High School
 
 ---
+I joined GitHub {{ ACCOUNT_AGE }} years ago and since then I have opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, received {{ STARS }} stars across {{ REPOSITORIES }} public repositories.
+
 
 ####  Projects
 
