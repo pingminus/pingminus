@@ -1,9 +1,12 @@
 
 ### Niklas
 
-• A student from Germany and right now focused on **C++** and **Go**
+• A student from Germany and right now focused on **C++**
+<br>
+• 18 years old
+<br>
+• Into Data Structures & Algorithms
 
-• 18 years old and in High School
 
 ---
 
