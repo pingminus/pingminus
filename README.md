@@ -5,7 +5,7 @@
 <br>
 • 18 years old
 <br>
-• Into Data Structures & Algorithms
+• Learning Data Structures/Algorithms and ML in C++
 
 
 ---
