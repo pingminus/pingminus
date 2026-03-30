@@ -1,5 +1,5 @@
 
-### Niklas
+# Niklas
 
 • A student from Germany and right now focused on **C++**
 <br>
