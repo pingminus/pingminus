@@ -12,9 +12,9 @@
 
 ####  Projects
 
-| **C++** | **Other** |
+| **C++** | **Java, Javascript, Go** |
 | ----------------- | ----------------------- |
-| [FTXUI-FlySim](https://github.com/pingminus/FTXUI-FlySim) - A Terminal Flight Simulator<br> [LazyMouse](https://github.com/pingminus/LazyMouse) - A program to configure your Xbox controller as a mouse and keyboard<br> [BitMap-Filter](https://github.com/pingminus/BMP-Filter) - A BMP image filter<br> [Cpp-RayCaster](https://github.com/pingminus/Cpp-RayCaster) - A simple C++ Raycaster<br> [CppBankSystem CLI](https://github.com/pingminus/CppBankSystem) - A CLI Bank App |  [SafeGuard](https://github.com/pingminus/SafeGuard) - A CLI File Encrypter in Go <br> [Serverside-Fly-Mod](https://github.com/pingminus/Serverside-Fly-Mod) - A Minecraft Mod with (3K downloads)<br> [GoogleFontScanner-Extension](https://github.com/pingminus/GoogleFontScanner-ExtensionJS) - A Google Fonts Scanner in JS<br>  [Lamidi](https://github.com/pingminus/LabyPianoPlayer) - A Midi Piano Player via Websocket for Laby.net |
+| [FTXUI-FlySim](https://github.com/pingminus/FTXUI-FlySim) - A Terminal Flight Simulator<br> [LazyMouse](https://github.com/pingminus/LazyMouse) - A program to configure your Xbox controller as a mouse and keyboard<br> [BitMap-Filter](https://github.com/pingminus/BMP-Filter) - A BMP image filter<br> [Cpp-RayCaster](https://github.com/pingminus/Cpp-RayCaster) - A simple C++ Raycaster<br> [CppBankSystem CLI](https://github.com/pingminus/CppBankSystem) - A CLI Bank App |  [SafeGuard](https://github.com/pingminus/SafeGuard) - A CLI File Encrypter in Go <br> [Serverside-Fly-Mod](https://github.com/pingminus/Serverside-Fly-Mod) - A Minecraft Mod with (3K downloads)<br> [NoFont](https://github.com/pingminus/NoFont) - A Google Fonts Scanner <br>  [Lamidi](https://github.com/pingminus/LabyPianoPlayer) - A Midi Piano Player via Websocket for Laby.net |
 
 
 ---
