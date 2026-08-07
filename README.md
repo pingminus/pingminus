@@ -1,7 +1,7 @@
 
 # Niklas
 
-• A student from Germany and right now focused on **C++**
+• Student from Germany, programming in C++ on and off since 2018
 <br>
 • 19 years old
 <br>
